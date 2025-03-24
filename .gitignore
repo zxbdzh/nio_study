@@ -1,0 +1,28 @@
+# 编译输出目录
+out/
+target/
+
+# 依赖缓存目录
+.gradle/
+node_modules/
+
+# IDE配置文件和缓存目录
+.idea/
+*.iml
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+
+# 操作系统相关的隐藏文件
+.DS_Store
+Thumbs.db
+
+# 其他可能不需要纳入版本控制的文件或目录
+# 例如，特定于本地开发环境的配置文件等
+local.properties
+
+**/*.mp4
+*.mp4
